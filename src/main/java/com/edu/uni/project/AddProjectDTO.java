@@ -11,5 +11,6 @@ import java.time.LocalDate;
 @NoArgsConstructor
 public class AddProjectDTO {
     private String name;
-    private Integer courseId;
+    private Integer courseName;
+
 }
